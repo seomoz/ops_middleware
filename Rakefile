@@ -5,7 +5,7 @@ Bundler.setup
 require 'jeweler'
 
 Jeweler::Tasks.new do |gem|
-  gem.name = "e20_ops_middleware"
+  gem.name = "seomoz-e20_ops_middleware"
   gem.summary = "Collection of useful middleware for exposing information about deployed Rack applications"
   gem.email = "tech@efficiency20.com"
   gem.homepage = "http://github.com/efficiency20/ops_middleware"
